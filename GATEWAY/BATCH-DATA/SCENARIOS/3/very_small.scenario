@@ -1,0 +1,31 @@
+{
+ "name": "Small test scenario",
+  "sizes": [{
+    "name": "tiny",
+    "size_min": 5000,
+    "size_max": 50000
+  }, {
+    "name": "small",
+    "size_min": 100000,
+    "size_max": 200000
+  }],
+  "initial_files": {
+    "tiny": 2000,
+    "small": 0
+  },
+  "Is_Mix_Workload_Mode": "True",
+  "Workloads": {
+    "w5": [0,95,5,0],
+    "w6": [0,5,95,0]
+  },
+  "Workload_Ratio": {
+    "w5":50,
+    "w6":50
+  },
+  "run_seconds": 120,
+  "crud_profile": [0,95,5,0],
+  "user_count": 4,
+  "container_base": "w3",
+  "container_count": 100,
+  "container_concurrency": 10
+}

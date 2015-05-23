@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO\ResultProcessor\ResultProcessor\bin\Debug\ResultProcessor.exe.config
+D:\VISUAL_STUDIO\ResultProcessor\ResultProcessor\bin\Debug\ResultProcessor.exe
+D:\VISUAL_STUDIO\ResultProcessor\ResultProcessor\bin\Debug\ResultProcessor.pdb
+D:\VISUAL_STUDIO\ResultProcessor\ResultProcessor\obj\Debug\ResultProcessor.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO\ResultProcessor\ResultProcessor\obj\Debug\ResultProcessor.exe
+D:\VISUAL_STUDIO\ResultProcessor\ResultProcessor\obj\Debug\ResultProcessor.pdb

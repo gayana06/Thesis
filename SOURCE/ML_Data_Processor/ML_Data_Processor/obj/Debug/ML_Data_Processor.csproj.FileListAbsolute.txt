@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO\ML_Data_Processor\ML_Data_Processor\bin\Debug\ML_Data_Processor.exe.config
+D:\VISUAL_STUDIO\ML_Data_Processor\ML_Data_Processor\bin\Debug\ML_Data_Processor.exe
+D:\VISUAL_STUDIO\ML_Data_Processor\ML_Data_Processor\bin\Debug\ML_Data_Processor.pdb
+D:\VISUAL_STUDIO\ML_Data_Processor\ML_Data_Processor\obj\Debug\ML_Data_Processor.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO\ML_Data_Processor\ML_Data_Processor\obj\Debug\ML_Data_Processor.exe
+D:\VISUAL_STUDIO\ML_Data_Processor\ML_Data_Processor\obj\Debug\ML_Data_Processor.pdb

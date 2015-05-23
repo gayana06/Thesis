@@ -1,0 +1,12 @@
+best_write_quorum.
+
+write_quorum:	1, 2, 3, 4, 5.
+received_gets:	continuous.
+received_puts:     continuous.
+get_avg_latency:  continuous.
+put_avg_latency: continuous.
+replied_gets:	continuous.
+replied_puts:  continuous.
+best_write_quorum:	1, 2, 3, 4, 5.
+
+

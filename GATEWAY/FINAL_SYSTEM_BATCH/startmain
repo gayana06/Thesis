@@ -1,0 +1,4 @@
+swift-init all stop
+sleep 3
+swift-init main start
+swift-init proxy stop

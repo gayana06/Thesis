@@ -1,0 +1,19 @@
+best.
+
+write_quorum: continuous.
+percW: continuous.
+received_gets: continuous.
+received_puts: continuous.
+received:= received_gets + received_puts.
+get_avg_latency: continuous.
+put_avg_latency: continuous.
+replied_gets: continuous.
+replied_puts: continuous.
+diff:= received /( replied_gets + replied_puts).
+size:continuous.
+diff2 := get_avg_latency/put_avg_latency.
+best: 1,2,3,4,5
+
+attributes excluded:  write_quorum, diff2, diff,  received_gets, received_puts, replied_gets, replied_puts. |, get_avg_latency,  put_avg_latency.
+|attributes excluded: write_quorum, received_gets, received_puts, replied_gets, replied_puts.
+|attributes excluded:  replied_puts,get_avg_latency,put_avg_latency.

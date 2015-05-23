@@ -1,0 +1,47 @@
+__author__ = 'Gayana'
+
+SEP_PIPE='|'
+SEP_COMMA=','
+is_adaptive_mode = True
+IS_ML_ENABLED = True
+IS_STATIC_POLICY_ENABLED=False
+log_path="/home/ubuntu/oracle_plus.txt"
+PERFORMANCE_PATH="/home/ubuntu/performace.txt"
+QUORUM_MAP_PATH="/home/ubuntu/quorum_map.txt"
+topk_ip="127.0.0.1"
+topk_port=42000
+oracle_loop_time=60
+socket_receive_byte = 20000
+HTTP_GET = "GET"
+HTTP_PUT = "PUT"
+HTTP_POST = "POST"
+HTTP_DELETE = "DELETE"
+HTTP_HEAD = "HEAD"
+DEFAULT_READ_QUORUM = 5
+DEFAULT_WRITE_QUORUM = 1
+REPLICA_COUNT=5
+TOPK_ERROR_THRESHOLD_PERCENTAGE = 100
+ML_IP = "127.0.0.1"
+ML_PORT = 50000
+PENDING_REQ_MONITOR_TIMEOUT=0.2
+IS_PARALLEL_READ = True
+IS_READ_PARALLEL_MAX= False
+IS_CLASSIC_WRITE=True
+
+IS_ML_TRAINING=False
+CASE_ID=1
+
+PROCESSED_LOG_PATH="/home/ubuntu/processed.txt"
+SENT_LOG_PATH="/home/ubuntu/sent.txt"
+IS_TEST_COMMUNICATION=False
+IS_MASTER = False
+CURRENT_IP = "172.31.0.137"
+MASTER_IP = "172.31.0.186"
+SLAVE_IPS=[]
+LISTENING_PORT=45000
+
+SIZE=3072
+COLLECT_BEST=False
+All_BEST=False
+
+ENABLE_LOGS=False
